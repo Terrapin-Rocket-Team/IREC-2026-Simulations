@@ -30,7 +30,7 @@ data:
       length: 0.22860045720091443
     type: BATES
   - properties:
-      coreDiameter: 0.05715011430022861
+      coreDiameter: 0.05080010160020321
       diameter: 0.12941325882651766
       inhibitedEnds: Neither
       length: 0.22860045720091443
@@ -40,7 +40,7 @@ data:
     divAngle: 15.0
     efficiency: 0.92
     erosionCoeff: 0.0
-    exit: 0.08511691643383287
+    exit: 0.11051696723393449
     slagCoeff: 0.0
     throat: 0.02921005842011684
     throatLength: 0.006350012700025401
@@ -48,7 +48,7 @@ data:
     density: 1677.4018539996068
     name: TRT Pourable
     tabs:
-    - a: 1.758356797360606e-05
+    - a: 2.3968662489161336e-05
       k: 1.204
       m: 25.685
       maxPressure: 10342500.000000002
